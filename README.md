@@ -1,16 +1,14 @@
-## Hi there 👋
+Passionate about Data Analytics and Data Engineering with a strong interest in transforming raw data into meaningful insights and scalable data solutions.
 
-<!--
-**Rofhiwa-Muthivhi/Rofhiwa-Muthivhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently building hands-on projects focused on SQL, data cleaning, data modeling, ETL workflows, and analytics processes using real-world datasets. My GitHub documents my learning journey, technical growth, and practical projects as I continue developing skills in analytics and data engineering.
 
-Here are some ideas to get you started:
+I enjoy working with structured and messy datasets, solving business problems with data, and continuously improving through consistent project-based learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and improving in:
+
+* SQL & database management
+* Data modeling
+* ETL pipelines
+* Data analytics workflows
+* Power BI & reporting
+* Git & GitHub collaboration
