@@ -1,24 +1,55 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rofhiwa Muthivhi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rofhiwa Muthivhi
 =========================================================================================================================================
 
-Aspiring Data Practitioner | Analytics & Data Engineering
----------------------------------------------------------
+### Aspiring Data Analyst | SQL | Excel | Data Analytics | Business Analytics
 
-Passionate about Data Analytics and Data Engineering with a strong interest in transforming raw data into meaningful insights and scalable data solutions.
+I am an aspiring **Data Analyst** with a background in **Economics and Business Management**, combined with experience in **financial services, business advisory, and agricultural operations**.
 
-I am currently building hands-on projects focused on SQL, data cleaning, data modeling, ETL workflows, and analytics processes using real-world datasets. My GitHub documents my learning journey, technical growth, and practical projects as I continue developing skills in analytics and data engineering.
+I am currently transitioning into data analytics and building practical skills in **SQL, Excel, Business Analytics, Power BI, and data-driven problem-solving** through hands-on projects and practical application.
 
-I enjoy working with structured and messy datasets, solving business problems with data, and continuously improving through consistent project-based learning.
+I enjoy working with data to uncover insights, solve business problems, and support informed decision-making.
 
-* 🌍  I'm based in South Africa(Johannesburg)
-* ✉️  You can contact me at [muthivhi0207@gmail.com](mailto:muthivhi0207@gmail.com)
-* 🧠  I'm currently learning Advanced SQL, data engineering concepts, ETL pipelines, data modeling, and analytics workflows.
-* 👥  I'm looking to collaborate on Data analytics projects, SQL challenges, data cleaning projects, ETL workflows, and beginner-friendly data engineering projects.
+---
 
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+## 🔧 Technical Skills
 
-### Socials
+- **SQL**
+- **Microsoft Excel**
+- **Data Cleaning**
+- **Data Analysis**
+- **Business Analytics**
+- **Data Visualization**
+- **Problem Solving**
+- **Analytical Thinking**
 
-<p align="left"> <a href="https://www.github.com/Rofhiwa Muthivhi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+---
+
+## 📊 Featured Projects
+
+### ☕ Coffee Sales Analysis
+Analyzed coffee shop sales data using **SQL and Excel** to identify revenue trends, customer behavior, and business insights.
+
+### 🛒 Retail Sales Performance Analysis
+Explored retail sales drivers using **data analytics techniques** to uncover performance patterns and business opportunities.
+
+### 🗄️ SQL Practice Exercises
+Built SQL querying skills through hands-on exercises covering **joins, unions, aggregation, filtering, subqueries, and data analysis concepts**.
+
+---
+
+## 🌱 Growing Skills
+
+- Power BI (building foundational skills)
+- Advanced Excel for Data Analytics
+- Data Cleaning & Transformation  
+- Real-world Analytics Projects
+
+---
+
+## 📍 Location
+📌 Johannesburg, South Africa
+
+## 🤝 Connect With Me
+- LinkedIn
+
+
