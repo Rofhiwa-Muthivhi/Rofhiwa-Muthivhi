@@ -1,13 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rofhiwa Muthivhi
-=========================================================================================================================================
 
-### Aspiring Data Analyst | SQL | Excel | Data Analytics | Business Analytics
-
-I am an aspiring **Data Analyst** with a background in **Economics and Business Management**, combined with experience in **financial services, business advisory, and agricultural operations**.
-
-I am currently transitioning into data analytics and building practical skills in **SQL, Excel, Business Analytics, Power BI, and data-driven problem-solving** through hands-on projects and practical application.
-
-I enjoy working with data to uncover insights, solve business problems, and support informed decision-making.
+I enjoy solving business problems through data. My projects begin by understanding the business challenge, defining the right questions, and using SQL and analytics to uncover meaningful insights that support better decision-making.
 
 ---
 
@@ -27,13 +19,13 @@ I enjoy working with data to uncover insights, solve business problems, and supp
 ## 📊 Featured Projects
 
 ### ☕ Coffee Sales Analysis
-Analyzed coffee shop sales data using **SQL and Excel** to identify revenue trends, customer behavior, and business insights.
+Investigated coffee shop sales performance using SQL and Excel to identify revenue trends, customer purchasing patterns, and opportunities to improve business performance.
 
-### 🛒 Retail Sales Performance Analysis
-Explored retail sales drivers using **data analytics techniques** to uncover performance patterns and business opportunities.
+### 🛒 Drivers of Sales Performance
+Applied a structured business analysis approach using SQL to investigate how store characteristics, promotions, seasonality, and economic conditions influence retail sales performance.
 
 ### 🗄️ SQL Practice Exercises
-Built SQL querying skills through hands-on exercises covering **joins, unions, aggregation, filtering, subqueries, and data analysis concepts**.
+Built a strong foundation in SQL through hands-on exercises covering data retrieval, joins, aggregations, filtering, subqueries, set operations, and query optimization while solving real-world business scenarios.
 
 ---
 
