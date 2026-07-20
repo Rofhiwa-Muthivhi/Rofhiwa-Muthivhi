@@ -15,13 +15,13 @@ I'm currently building a portfolio of end-to-end analytics projects while expand
 
 ## 📊 Featured Projects
 
-## ☕ Coffee Sales Analysis
+### ☕ Coffee Sales Analysis
 Investigated coffee shop sales performance using SQL and Excel to identify revenue trends, customer purchasing patterns, and opportunities to improve business performance.
 
-## 🛒 Drivers of Sales Performance
+### 🛒 Drivers of Sales Performance
 Applied a structured business analysis approach using SQL to investigate how store characteristics, promotions, seasonality, and economic conditions influence retail sales performance.
 
-## 🗄️ SQL Practice Exercises
+### 🗄️ SQL Practice Exercises
 Built a strong foundation in SQL through hands-on exercises covering data retrieval, joins, aggregations, filtering, subqueries, set operations, and query optimization while solving real-world business scenarios.
 
 
