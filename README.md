@@ -1,27 +1,28 @@
 <p align="center">
     <img src="assets/banner.png" alt="GitHub Banner">
 </p>
+# Data Analytics | SQL | Excel | Business Analysis
 
-I enjoy solving business problems through data. My projects begin by understanding the business challenge, defining the right questions, and using SQL and analytics to uncover meaningful insights that support better decision-making.
+I solve business problems through data by starting with the business challenge, asking the right questions, and using SQL and analytics to uncover insights that support informed decision-making.
 
-I'm currently building a portfolio of end-to-end analytics projects while expanding my skills in data engineering, with a focus on designing scalable data solutions that bridge business needs and technology.
+I'm building a portfolio of end-to-end analytics projects while expanding my skills in data engineering. My current learning focuses on data modelling, ETL, and Power BI as I develop the skills to build scalable, business-focused data solutions.
 
 
 ## 🚀 Current Focus
-- Building SQL analytics projects
+- Building end-to-end analytics projects with SQL and Excel
 - Learning Power BI
 - Strengthening data engineering fundamentals
-- Exploring ETL pipelines and Azure
-- Developing business-focused analytical solutions
+- Exploring ETL pipelines
+- Building scalable, business-focused data solutions
 
 
 ## 📊 Featured Projects
 
 ### ☕ Coffee Sales Analysis
-Investigated coffee shop sales performance using SQL and Excel to identify revenue trends, customer purchasing patterns, and opportunities to improve business performance.
+Analyzed coffee shop sales using SQL and Excel to identify revenue trends, customer purchasing behaviour, and actionable opportunities to improve business performance.
 
 ### 🛒 Drivers of Sales Performance
-Applied a structured business analysis approach using SQL to investigate how store characteristics, promotions, seasonality, and economic conditions influence retail sales performance.
+Conducted exploratory data analysis and business analysis using SQL to evaluate how store characteristics, promotions, seasonality, and economic indicators influence retail sales performance.
 
 ### 🗄️ SQL Practice Exercises
 Built a strong foundation in SQL through hands-on exercises covering data retrieval, joins, aggregations, filtering, subqueries, set operations, and query optimization while solving real-world business scenarios.
@@ -32,18 +33,23 @@ Built a strong foundation in SQL through hands-on exercises covering data retrie
 **Analytics**
 - SQL
 - Excel
-- Power BI
 
-**Business**
+**Currently Learning**
+- Power BI
+- Data Modelling
+- ETL
+- Azure
+
+## 🧠 Core Skills
 - Business Analysis
 - Problem Solving
 - Data Storytelling
 
-**Data**
+## 📈 Data Skills Data Skills
 - Data Cleaning
-- Data Analysis
-- Data Visualization
-
+- Exploratory Data Analysis (EDA)
+- Data Quality Assessment
+- Data Visualization (Excel)
 
 ## 📍 Location
 📌 Johannesburg, South Africa
