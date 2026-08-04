@@ -1,7 +1,6 @@
 <p align="center">
     <img src="assets/banner.png" alt="GitHub Banner">
 </p>
-# Data Analytics | SQL | Excel | Business Analysis
 
 I solve business problems through data by starting with the business challenge, asking the right questions, and using SQL and analytics to uncover insights that support informed decision-making.
 
