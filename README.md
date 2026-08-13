@@ -17,9 +17,6 @@ I'm building a portfolio of end-to-end analytics projects while expanding my ski
 
 ## 📊 Featured Projects
 
-### ☕ Coffee Sales Analysis
-Analyzed coffee shop sales using SQL and Excel to identify revenue trends, customer purchasing behaviour, and actionable opportunities to improve business performance.
-
 ### 🛒 Drivers of Sales Performance
 Conducted exploratory data analysis and business analysis using SQL to evaluate how store characteristics, promotions, seasonality, and economic indicators influence retail sales performance.
 
