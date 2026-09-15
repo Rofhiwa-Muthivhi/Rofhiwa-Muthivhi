@@ -4,15 +4,19 @@
 
 I solve business problems through data by starting with the business challenge, asking the right questions, and using SQL and analytics to uncover insights that support informed decision-making.
 
-I'm building a portfolio of end-to-end analytics projects while expanding my skills in data engineering. My current learning focuses on data modelling, ETL, and Power BI as I develop the skills to build scalable, business-focused data solutions.
+I’m building a portfolio of end-to-end data projects that demonstrate how I work with data from raw datasets to meaningful business insights. I’m also expanding my skills in data engineering, with a focus on data modelling, ETL, and cloud data technologies.
+
+My goal is to build practical, scalable, and business-focused data solutions that turn raw data into clear insights and better decisions.
+
 
 
 ## 🚀 Current Focus
 - Building end-to-end analytics projects with SQL and Excel
 - Learning Power BI
 - Strengthening data engineering fundamentals
-- Exploring ETL pipelines
-- Building scalable, business-focused data solutions
+- Exploring ETL pipelines and data modelling
+- Expanding my knowledge of Azure data technologies
+
 
 
 ## 📊 Featured Projects
@@ -20,8 +24,13 @@ I'm building a portfolio of end-to-end analytics projects while expanding my ski
 ### 🛒 Drivers of Sales Performance
 Conducted exploratory data analysis and business analysis using SQL to evaluate how store characteristics, promotions, seasonality, and economic indicators influence retail sales performance.
 
-### 🗄️ SQL Practice Exercises
-Built a strong foundation in SQL through hands-on exercises covering data retrieval, joins, aggregations, filtering, subqueries, set operations, and query optimization while solving real-world business scenarios.
+### 🛍️ Kasi Mart Data Engineering Project
+
+Built a Snowflake-based mini retail data project using customers, products, and orders tables to practise data ingestion, dimensional relationships, joins, and business analysis.
+
+### 🗄️ Hospital Admissions Data Pipeline
+
+Built a SQL Server data pipeline covering raw data ingestion, data profiling, quality checks, deduplication, validation, and a curated dataset.
 
 
 ## 🧰 Tools & Technologies
@@ -29,28 +38,25 @@ Built a strong foundation in SQL through hands-on exercises covering data retrie
 **Analytics**
 - SQL
 - Excel
-
-**Currently Learning**
 - Power BI
+
+**Data Engineering**
+
 - Data Modelling
 - ETL
+- SQL Server
+- Snowflake
 - Azure
 
-## 🧠 Core Skills
-- Business Analysis
-- Problem Solving
-- Data Storytelling
 
-## 📈 Data Skills Data Skills
+## 📈 Data Skills 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Quality Assessment
-- Data Visualization (Excel)
+- Data Visualization
 
-## 📍 Location
-📌 Johannesburg, South Africa
+
 
 ## 🤝 Connect With Me
-- LinkedIn
-
+- https://www.linkedin.com/in/rofhiwa-muthivhi
 
