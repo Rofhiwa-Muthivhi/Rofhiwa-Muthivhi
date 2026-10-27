@@ -2,20 +2,22 @@
     <img src="assets/banner.png" alt="GitHub Banner">
 </p>
 
-I solve business problems through data by starting with the business challenge, asking the right questions, and using SQL and analytics to uncover insights that support informed decision-making.
+I approach data by first understanding the problem, asking the right questions, and designing solutions that create business value.
 
-I’m building a portfolio of end-to-end data projects that demonstrate how I work with data from raw datasets to meaningful business insights. I’m also expanding my skills in data engineering, with a focus on data modelling, ETL, and cloud data technologies.
+With a background in Economics and Business Management and experience in financial services and operational environments, I bring business understanding to my growing technical skills in Data Analytics and Data Engineering.
 
-My goal is to build practical, scalable, and business-focused data solutions that turn raw data into clear insights and better decisions.
+My portfolio demonstrates my work with SQL, data analysis, ETL pipelines, data modelling, and data warehousing, with a focus on building reliable solutions that turn raw data into useful information.
+
 
 
 
 ## 🚀 Current Focus
-- Building end-to-end analytics projects with SQL and Excel
-- Learning Power BI
-- Strengthening data engineering fundamentals
-- Exploring ETL pipelines and data modelling
-- Expanding my knowledge of Azure data technologies
+
+* Building practical data solutions using SQL and SQL Server.
+* Developing ETL pipelines and understanding reliable, repeatable data processing.
+* Applying Medallion Architecture and dimensional modelling in data warehouse projects.
+* Strengthening Python skills and learning Azure data technologies.
+* Exploring how well-designed data systems improve business efficiency and decision-making.
 
 
 
@@ -28,32 +30,37 @@ Conducted exploratory data analysis and business analysis using SQL to evaluate 
 
 Built a Snowflake-based mini retail data project using customers, products, and orders tables to practise data ingestion, dimensional relationships, joins, and business analysis.
 
-### 🗄️ Hospital Admissions Data Pipeline
+### 🛒 Olist Data Warehouse Solution
 
-Built a SQL Server data pipeline covering raw data ingestion, data profiling, quality checks, deduplication, validation, and a curated dataset.
+Built an end-to-end e-commerce data warehouse to help managers track key performance indicators, monitor business performance, and make informed decisions using structured data. Focused on data ingestion, ETL pipelines, Medallion Architecture, and dimensional modelling using SQL Server and SSIS.
+
 
 
 ## 🧰 Tools & Technologies
 
 **Analytics**
-- SQL
-- Excel
-- Power BI
+* SQL
+* Excel
+* Power BI
 
 **Data Engineering**
 
-- Data Modelling
-- ETL
-- SQL Server
-- Snowflake
-- Azure
+* SQL Server
+* SSIS (SQL Server Integration Services)
+* Snowflake
+* Databricks
+* ETL Pipelines
+* Data Modelling
+* Azure(Currenly learning)
 
 
 ## 📈 Data Skills 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Quality Assessment
-- Data Visualization
+* Data Cleaning and Transformation
+* Exploratory Data Analysis (EDA)
+* Data Quality Assessment
+* Dimensional Modelling
+* Data Warehousing
+* Business Analysis and Data-Driven Decision-Making
 
 
 
